@@ -41,11 +41,9 @@ ROS（Robot Operating System）作为开源的机器人操作系统，在上层�
 
 ### 项目导师
 
-陈洪邦
 
-* github [edward518](https://github.com/edward518)
-
-* email chenhongbang@acoinfo.com
+鲍子航
+* email baozihang@acoinfo.com
 
   
 
